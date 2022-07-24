@@ -6,3 +6,7 @@ for(var i = 0; i<numberOfDrums; i++){
         alert("I got clickedddd!");
     });
 }
+
+
+var audio = new Audio ("sounds/tom-1.mp3")
+audio.play();
